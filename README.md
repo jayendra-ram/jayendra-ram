@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 my name jay
-- 🏫 i go to columbia
+- 🏫 i go to columbia and have worked as in quant research/trading and fullstack dev
 - 🔭 i'm interested in reinforcement learning, markets, forecasting and AI art
 - 🌱 I’m currently learning react and other stuff
 
