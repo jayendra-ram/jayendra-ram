@@ -5,6 +5,6 @@
 - 🏫 i go to columbia and have worked in quant research/trading and fullstack dev
 - 🔭 i'm interested in making better representations
 - 🌱 I’m currently learning svelte and ML theory
-- 🌐 jayram.dev (WIP)
+- 🌐 [jayram.dev][https://jayram.dev] (WIP)
 
 
