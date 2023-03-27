@@ -5,4 +5,4 @@
 - 🔭 i'm interested in making better representations
 - 🌱 I’m currently learning svelte and ML theory
 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/Soycid/nvim)
