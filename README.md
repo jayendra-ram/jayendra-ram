@@ -6,5 +6,7 @@
 - 🌱 I’m currently learning svelte and ML/DL theory
 - 🌐 [jayram.dev](https://jayram.dev) (WIP)
 
+check out [snapnotes.app](https://snapnotes.app/), an ai tool that helps you read faster!
+
 
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/Soycid/nvim)
