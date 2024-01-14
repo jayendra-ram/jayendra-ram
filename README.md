@@ -8,6 +8,8 @@
 
 [stockedrx.com](https://stockedrx.comm/), uses ai callers to help you find medication.
 
+[friendly tv](https://friendly-tv-soycid.vercel.app/), omegle / monkey but with vTubers
+
 [snapnotes.app](https://snapnotes.app/), an ai tool that helps you read faster!
 
 
