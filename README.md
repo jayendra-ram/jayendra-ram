@@ -2,8 +2,8 @@
 
 - 😄 my name is jay
 - 🏫 i go to columbia and have worked in quant research/trading and fullstack dev
-- 🔭 i'm interested in consciousness and AI
-- 🌱 I’m currently learning modern fullstack development, neuroscience and LLM interpretability
+- 🔭 i'm interested in consciousness, physics, transhumanism, finance and AI
+- 🌱 I’m currently learning modern full-stack development, neuroscience, Hindi, and LLM interpretability
 - 🌐 [jayram.dev](https://jayram.dev) (WIP)
 
 [stockedrx.com](https://stockedrx.comm/), uses ai callers to help you find medication.
