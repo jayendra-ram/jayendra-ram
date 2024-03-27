@@ -15,11 +15,25 @@
 
 [snapnotes.app](https://snapnotes.app/), an ai tool that helps you read faster!
 
-{
-"Javascript+Typescript": ["Websockets", "React", "React Native", "Svelte", "JQuery"],
-"Python": ["FastAPI", "Pytorch+Einops", "Modal Labs", "Pandas"],
-"Databases": ["Postgres+SQL","Supabase","MongoDB"],
-"Docker": ["Yes"],
-}
+### Tech Stack
+#### Frontend
+* React
+* Svelte
+* React Native
+* JQuery
+#### Backend
+* Python
+  * FastAPI
+  * Pytorch + Einops
+  * Modal Labs
+  * Pandas
+* Go
+* Rust
+* Docker
+#### Databases
+* PostgresQL
+* Supabase
+* MongoDB
+
 
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/Soycid/nvim)
