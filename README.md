@@ -6,7 +6,10 @@
 - 🌱 I’m currently learning modern full-stack development, neuroscience, Hindi, and LLM interpretability
 - 🌐 [jayram.dev](https://jayram.dev) (WIP)
 
-[stockedrx.com](https://stockedrx.comm/), uses ai callers to help you find medication.
+
+[candycall.io](https://candycall.io/), lil quirky AI calling app
+
+[stockedrx.com](https://stockedrx.com/), uses ai callers to help you find medication.
 
 [friendly tv](https://friendly-tv-soycid.vercel.app/), omegle / monkey but with vTubers
 
