@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning design, Hindi and interpretability methods
 - 🌐 [jayram.dev](https://jayram.dev) (WIP)
 
-[stockedrx.com](https://stockedrx.com/), uses ai callers to help you find medication.
+[stockedrx.com](https://stockedrx.com/), uses ai callers to help you find medication. [discontinued]
 
 [friendly tv](https://friendly-tv-soycid.vercel.app/), omegle / monkey but with vTubers
 
