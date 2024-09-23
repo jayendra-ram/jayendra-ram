@@ -4,9 +4,8 @@
 - 🏫 i go to columbia and have worked in quant research/trading and fullstack dev
 - 🔭 i'm interested in consciousness, physics, transhumanism, meditation, statistics and artificial intelligence
 - 🌱 I’m currently learning design, Hindi and interpretability methods
-- 🌐 [jayram.dev](https://jayram.dev) (WIP)
 
-[stockedrx.com](https://stockedrx.com/), uses ai callers to help you find medication. [discontinued]
+[stockedrx.com](https://stockedrx.com/), uses ai callers to help you find medication. [discontinued, 40k rev]
 
 [friendly tv](https://friendly-tv-soycid.vercel.app/), omegle / monkey but with vTubers
 
